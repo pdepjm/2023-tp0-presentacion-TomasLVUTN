@@ -1,7 +1,6 @@
-# 2023-tp0-presentacion-TomasLVUTN
-2023-tp0-presentacion-TomasLVUTN created by GitHub Classroom
+# Tomas Laurenzano
 
-## Tomas Laurenzano
+
 ### Legajo> 208423.
 
 ![foto](foto.jpg)
