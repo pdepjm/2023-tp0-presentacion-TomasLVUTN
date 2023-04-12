@@ -1,7 +1,7 @@
 # Tomas Laurenzano
 
 
-### Legajo> 208423.
+### Legajo: 208423.
 
 ![foto](foto.jpg)
 
